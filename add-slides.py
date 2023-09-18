@@ -74,7 +74,7 @@ slides_content = [
     },
     #1
     {
-        'title': "Introducción a DevOps y AWS",
+        'title': "Introducción a DevOps y AWS....",
         'subtitle': "Visión general de los principios y valores de DevOps.|Breve repaso de los servicios y soluciones de AWS relevantes para DevOps.",
         'content': "En esta sección introductoria, exploraremos los fundamentos de DevOps y su integración con el ecosistema de Amazon Web Services (AWS). Comprenderemos los principios y valores clave de DevOps, que promueven la colaboración, la automatización y la entrega continua. Además, se presentarán de manera concisa los servicios y soluciones de AWS que juegan un papel fundamental en la implementación exitosa de DevOps en la nube, estableciendo así la base para el resto de la charla."
     },
