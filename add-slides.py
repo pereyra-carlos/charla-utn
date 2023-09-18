@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 # Ruta al archivo JSON con las credenciales de la cuenta de servicio
-credentials_file = '/home/carlos/Trabajo/Charla/charla-utn/charladevops-9715a69aa772.json'
+credentials_file = 'charladevops-9715a69aa772.json'
 
 # Crea un servicio para acceder a la API de Google Slides
 credentials = service_account.Credentials.from_service_account_file(credentials_file, scopes=['https://www.googleapis.com/auth/presentations'])
@@ -70,7 +70,7 @@ slides_content = [
     {
         'title': "Cultura y Colaboración en DevOps",
         'subtitle': "Cómo fomentar la colaboración entre equipos de desarrollo y operaciones. | Importancia de la comunicación constante y la resolución colaborativa de problemas",
-        'content': ""
+        'content': "Es esencial para entender cómo DevOps va más allá de las herramientas y se enfoca en la transformación cultural en las organizaciones. En DevOps, se promueve una cultura de colaboración y comunicación abierta entre los equipos de desarrollo, operaciones y otras partes interesadas. Esto implica un cambio de mentalidad en el que se prioriza la cooperación sobre la competencia, y se trabaja juntos hacia objetivos comunes. La colaboración efectiva en DevOps conlleva la eliminación de silos y la creación de equipos multidisciplinarios que asumen la responsabilidad compartida de todo el ciclo de vida de desarrollo y entrega de aplicaciones. Al adoptar esta cultura de colaboración, las organizaciones pueden acelerar la entrega de software, reducir errores y mejorar la calidad, lo que en última instancia conduce a una mayor satisfacción del cliente y a un entorno de trabajo más eficiente y motivador."
     },
     #1
     {

@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 # Ruta al archivo JSON con las credenciales de la cuenta de servicio
-credentials_file = '/home/carlos/Trabajo/Charla/charla-utn/charladevops-9715a69aa772.json'
+credentials_file = 'charladevops-9715a69aa772.json'
 
 # Correo electrónico del usuario al que deseas dar permisos
 user_email = 'cpereyra82@gmail.com'
