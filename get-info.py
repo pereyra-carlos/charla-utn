@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
 # Ruta al archivo de credenciales
-credentials_file = '/home/carlos/Trabajo/Charla/charla-utn/charladevops-9715a69aa772.json'
+credentials_file = 'charladevops-9715a69aa772.json'
 
 # Crea las credenciales desde el archivo JSON
 credentials = service_account.Credentials.from_service_account_file(credentials_file, scopes=['https://www.googleapis.com/auth/presentations'])
