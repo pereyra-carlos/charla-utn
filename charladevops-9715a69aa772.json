@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "charladevops",
+  "private_key_id": "9715a69aa7721b44cf9b43ff2407a07886c0d4af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJXTTldk1xS1Us\nGz1KwuggWkbgZPN7UOrS19CyklxPlWHJEr/rET3/upSP+Idt4UZbcBbeb0EBYJit\naBchTJD2pJboRHxerYJNCPDzXOIeSPQ1D8tLjJUz3mejapjhkLYOeei7AbwqdXFA\nppHMfFQ+a6ZX4eEF++J9zMk4pLTEq8Esmrm4kimZiEjb602XX0x/cOlAT1NaROhp\nS99KkY7qfzPyrguEYsWjQUkmQ6cwbg4Sd+AQVY6e2pFWr6EZXim27lzBRzzchQsT\nHGn7lYa5ZQbwejh3Zjly4yjgI6M4NJXsqRl3MFh4Tef50IYbUl1kSPtNh4Qn3w2L\ntAz7YFUdAgMBAAECggEAYZI0a2ujot4p6zFXxb4j1GlqJplEEeDnqDrC+YRKDpYH\nx/K55CF6tUunaQu4M9oQyYXKzwWBrjUsRfpGGvCK3bhrFyj4Srgwhztp5cKAHsSi\n8IMysuzv7y45ccnZQpNoZCNWTidNEhXORtFvnHIyL/zhoXvmGYwv910fs767iQAD\n7J4ms8MFbI/9RMx1qxByVnaWKRbiP4xI68NcPRDw9MFxMVaS7G26ikXLDP9xoE34\nSp9eqA/Wq+4Hd+r/xaR9hnfMyspZAawmWLv13or1M2cKyWfTOtST7P0YirJ0xhs4\nNz1gBGTHqvSzZup70wQ02rxIjDCgW5+YkfA/pmzv0QKBgQD1XbOTJfhTldp9VU/Q\nh5fMLjam4wLyjGUd5CG5gpk9vcv/0uYIpcg7+GoKaYQ4kHCDjWBLi6uwCTWTzG/M\nGTOlX77y1yGefn2xAkBS17Wef4ZK8IXNW3sypJdNp+DIl+V+1nhL9LdSFEbKtAW/\nQNQEyMunK2ST/jO6JzMZtDOs0wKBgQDSF094uEANzZdWTkKI1dEAoeY4sXvhtB8e\nQyeyZuaARavV+dytv5wwzDZsmcXstVclx2yy7j+pabhPfkxpEYtj6NyD+wz8Algo\n6oAzboymfWxXMhN3Tw/DwQj3Tr6eMWIYth4KqnOCqyCBTWtOkHTubiSHf0kMYDrJ\nPSg6phoATwKBgQDQMj7ieBB7FCd9u7rqzXMPbJMxDmT83AYc0+uN1nQjAH4tx40q\n/0ilIkcQKLJpsJ3X8kkoMQ5wY5ATph+ixiudgl2q/sJnExuh67Aa2zAfmkOgKPDP\n7HTf5ur/mJhSfRjdhCw0/yPiQJRFAXXy75Y3rQ2o/lfsf4Dyzro8cDx8wwKBgHGw\njaANTRRrIi9hMF4uHukRs60QVrKgL4rH2o6PYsMdcMzdZs9bdmFt0THZ0SK0S1G1\nZpw5k5fRDx1tgloFVYIefF6rl640cpLJu9CZTWG3U86n2aLh1O0g5AI4yax/ms82\nlnE9Jj8a7f8q7xvXzn9MeVYdymD5HjbScpeyVTW/AoGBAKy+Sw9UvSPUJiy1hq41\nBDpTpF4NyieXiKf/H16aFRSawV5i/DonmQA5HJoC07l9GEsYFBPlo7uZ9IyRW9Ri\nDT4ifBJIqBTIJUishTs4MkjQK2aoB7dX5D6LILWrf1rbnz8Ust6QhCEC9ek1wlOS\njYkYYKTaZiIEEiOcJfZl+rNb\n-----END PRIVATE KEY-----\n",
+  "client_email": "creadordeppts@charladevops.iam.gserviceaccount.com",
+  "client_id": "109441156304615359330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/creadordeppts%40charladevops.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
